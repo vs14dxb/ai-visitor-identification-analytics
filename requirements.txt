@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+torch
+torchvision
+torchaudio
+deep_sort_realtime
+fastapi
+uvicorn
+python-multipart
